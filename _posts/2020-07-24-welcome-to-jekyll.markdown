@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "ホームページリニューアルのお知らせ"
+title:  "ホームページリニューアルのお知らせ(2020/07/25)"
 date:   2020-07-24 19:28:25 +0900
 categories: jekyll update
 ---
