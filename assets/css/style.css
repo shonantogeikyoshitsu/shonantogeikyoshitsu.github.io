@@ -1,0 +1,67 @@
+body {
+ background: #00FFFF;
+}
+h1 {
+  font-size: 200%
+}
+h2 {
+  font-size: 200%
+}
+p {
+  font-size: 150%
+}
+
+table {
+   font-size: 150%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    color: #a52a2a;
+    background-color: #CCFFFF;
+    background-size: cover;
+}
+header .headline {
+    color: red;
+}
+
+
+.wrapper {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 120px;
+    box-sizing: border-box;
+}
+
+footer {
+    width: 100%;
+    background-color: #174a5c;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    
+  position: absolute;
+    bottom: 0;
+}
+  
+ul {
+    margin: 0px 30px;
+    height: 100px;
+    overflow-y: scroll;
+    background-color: white;
+}
+li {
+    margin: 10px 30px;
+}
+
+img.top {
+width: 400px;
+height: 80px;
+}
